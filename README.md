@@ -1,4 +1,4 @@
-# CPP-Range
+# C++ ranges
 ## That cool range syntax from Python now in C++
 <!> Unfortunately, doesn't fix other bunch of 
 C++ syntactic oddities...
