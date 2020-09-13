@@ -1,5 +1,7 @@
 # CPP-Range
 ## That cool range syntax from Python now in C++
+<!> Unfortunately, doesn't fix other bunch of 
+C++ syntax oddities...
 
 Remember when you wrote a simple range-for in Python and said:
 "Wow, why cannot C++ have this?"
