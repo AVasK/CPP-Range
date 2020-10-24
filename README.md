@@ -1,5 +1,6 @@
 # C++ ranges
 ## That cool range syntax from Python now in C++
+### requires C++11
 
 Remember when you wrote a simple range-for in Python and said:
 "Wow, why cannot C++ have this?"
