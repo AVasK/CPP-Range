@@ -18,5 +18,10 @@ Well, now it can!
   for (auto i : range(end) // <=> range(end)
 ```
 
-Or, if you did not... 
-Well, there's nothing else here, sorry
+# Gets optimized to plain built-in for loop
+## tested on:
+### > Apple clang version 12.0.0)
+### > x86-64 GCC 10.2 (asm in godbolt)
+
+# Link to godbolt to try it yourself:
+https://godbolt.org/z/qxssch
